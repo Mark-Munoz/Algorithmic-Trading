@@ -21,10 +21,3 @@ Step 7: Chart:
 1. Monthly portfolio return bar chart (pos/neg coloring) vs ETF
 2. Monthly return for long picks vs short picks vs ETF
 3. Cumulative portfolio return vs ETF
-   
-Extra Credit: Calculate the optimized weighting of the monthly restructuring and include in backtesting of
-algorithm. Make sure the weighting is performed each month when the portfolio is restructured.
-
-Parting Thoughts: Remember, we’ll work through all the Python and finance steps you need to understand
-to be able to calculate alpha factors. That being said, I’m not going to just give you everything – you’ll be
-responsible for determining the actual function for each factor and whether it’s a positive or negative factor.
